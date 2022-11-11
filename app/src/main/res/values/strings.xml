@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">alertas</string>
+    <string name="btn_yes">SIM</string>
+    <string name="btn_no">NÃO</string>
+    <string name="dialog">Abrir Dialog</string>
+    <string name="dialog_simple">Abrir dialog Simples</string>
+    <string name="dialog_radio">Abrir dialog com Radio</string>
+    <string name="dialog_multiple">Abrir dialog Multiplo</string>
+
+    <string-array name="bandas">
+        <item>Foo Fighters</item>
+        <item>Aerosmith</item>
+        <item>Metalica</item>
+        <item>Red Hot Chili Peppers</item>
+    </string-array>
+</resources>
